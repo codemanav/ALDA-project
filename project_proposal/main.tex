@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[final]{neurips} % ready for submission, but you have multiple options to import this
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{xcolor}         % colors
+
+\begin{document}
+
+\title{Soccer Dataset Prediction and Analysis}
+
+\author{%
+  Abhishek Rao \\
+  \texttt{arao23@ncsu.edu} \\
+  \And
+  Manav Divyesh Shah \\
+  \texttt{mdshah5@ncsu.edu} \\
+  \And
+  Srimadh Vasuki Rao \\
+  \texttt{svrao3@ncsu.edu}
+}
+
+\maketitle
+
+
+
+\section{Data Set}
+Our project will use the \href{https://www.kaggle.com/datasets/hugomathien/soccer}{European Soccer Dataset}
+. It contains 25,000 matches, 10,000 players, 11 European Countries with their lead championships, players and teams attributes, and detailed match events, including weekly updates ranging from seasons 2008 to 2016.
+
+
+\section{Project Idea}
+\label{gen_inst}
+Our project aims to achieve two primary objectives: predicting top performers in their specific categories and forecasting the outcome of a given match. To accomplish these tasks, we need to conduct thorough exploratory data analysis (EDA) to identify correlations between various metrics for both players and teams.
+
+\section{Software to Write}
+\label{headings}
+We will majorly use Python to perform exploratory data analysis and predict the outliers/best performers along with match result prediction. 
+
+\section{Relevant Papers}
+
+\small{
+
+
+[1] Ulmer, Ben, Matthew Fernandez, and Michael Peterson. "Predicting soccer match results in the English premier league." Doctoral dissertation, Doctoral dissertation, Ph. D. dissertation, Stanford (2013).
+
+
+[2] Shin, J., \& Gasparyan, R. (2014). A novel way to soccer match prediction. Stanford University: Department of Computer Science.
+
+
+[3] Luca Pappalardo, Paolo Cintia, Paolo Ferragina, Emanuele Massucco, Dino Pedreschi, and Fosca Giannotti. 2019. PlayeRank: Data-driven Performance Evaluation and Player Ranking in Soccer via a Machine Learning Approach. ACM Trans. Intell. Syst. Technol. 10, 5, Article 59 (September 2019), 27 pages. https://doi.org/10.1145/3343172
+}
+\normalsize
+
+
+\section{Division of Work}
+\label{others}
+We plan to split each component of the project evenly among the team. To start, we'll break down the exploratory data analysis (EDA) into three segments: players, teams, and matches. For the prediction phase, we will explore and implement various prediction and anomaly detection techniques for identifying outliers, predicting match scores, and forecasting match results, and then distribute these tasks among ourselves accordingly.
+
+\section{Midterm Milestone}
+By the midterm checkpoint, we will complete the exploratory data analysis and provide a deeper understanding of the correlations between the various attributes. Additionally, we will present initial prediction results for player performances and team performance/outcomes.
+
+\end{document}
