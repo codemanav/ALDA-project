@@ -1,0 +1,300 @@
+team_name,team_api_id,league_name,league_id,country_name,country_id
+Beerschot AC,9993,Belgium Jupiler League,2,Belgium,1
+Club Brugge KV,8342,Belgium Jupiler League,12,Belgium,1
+FCV Dender EH,7947,Belgium Jupiler League,9,Belgium,1
+KAA Gent,9991,Belgium Jupiler League,7,Belgium,1
+KAS Eupen,6351,Belgium Jupiler League,1042,Belgium,1
+KRC Genk,9987,Belgium Jupiler League,1,Belgium,1
+KSV Cercle Brugge,9984,Belgium Jupiler League,5,Belgium,1
+KSV Roeselare,9999,Belgium Jupiler League,13,Belgium,1
+KV Kortrijk,8571,Belgium Jupiler League,14,Belgium,1
+KV Mechelen,8203,Belgium Jupiler League,11,Belgium,1
+KV Oostende,8573,Belgium Jupiler League,2476,Belgium,1
+KVC Westerlo,10001,Belgium Jupiler League,17,Belgium,1
+Lierse SK,9989,Belgium Jupiler League,1034,Belgium,1
+Oud-Heverlee Leuven,1773,Belgium Jupiler League,1513,Belgium,1
+RAEC Mons,9998,Belgium Jupiler League,8,Belgium,1
+RSC Anderlecht,8635,Belgium Jupiler League,6,Belgium,1
+Royal Excel Mouscron,9996,Belgium Jupiler League,16,Belgium,1
+Royal Excel Mouscron,274581,Belgium Jupiler League,2510,Belgium,1
+SV Zulte-Waregem,10000,Belgium Jupiler League,3,Belgium,1
+Sint-Truidense VV,9997,Belgium Jupiler League,614,Belgium,1
+Sporting Charleroi,9986,Belgium Jupiler League,18,Belgium,1
+Sporting Lokeren,9994,Belgium Jupiler League,4,Belgium,1
+Standard de Liège,9985,Belgium Jupiler League,10,Belgium,1
+Tubize,4049,Belgium Jupiler League,15,Belgium,1
+Waasland-Beveren,8475,Belgium Jupiler League,2004,Belgium,1
+Arsenal,9825,England Premier League,3459,England,1729
+Aston Villa,10252,England Premier League,3465,England,1729
+Birmingham City,8658,England Premier League,4218,England,1729
+Blackburn Rovers,8655,England Premier League,3468,England,1729
+Blackpool,8483,England Premier League,4996,England,1729
+Bolton Wanderers,8559,England Premier League,3471,England,1729
+Bournemouth,8678,England Premier League,8779,England,1729
+Burnley,8191,England Premier League,4234,England,1729
+Cardiff City,8344,England Premier League,7276,England,1729
+Chelsea,8455,England Premier League,3475,England,1729
+Crystal Palace,9826,England Premier League,7261,England,1729
+Everton,8668,England Premier League,3467,England,1729
+Fulham,9879,England Premier League,3474,England,1729
+Hull City,8667,England Premier League,3473,England,1729
+Leicester City,8197,England Premier League,8021,England,1729
+Liverpool,8650,England Premier League,3462,England,1729
+Manchester City,8456,England Premier League,3466,England,1729
+Manchester United,10260,England Premier League,3457,England,1729
+Middlesbrough,8549,England Premier League,3469,England,1729
+Newcastle United,10261,England Premier League,3458,England,1729
+Norwich City,9850,England Premier League,5756,England,1729
+Portsmouth,8462,England Premier League,3476,England,1729
+Queens Park Rangers,10172,England Premier League,5747,England,1729
+Reading,9798,England Premier League,6509,England,1729
+Southampton,8466,England Premier League,6504,England,1729
+Stoke City,10194,England Premier League,3472,England,1729
+Sunderland,8472,England Premier League,3461,England,1729
+Swansea City,10003,England Premier League,5744,England,1729
+Tottenham Hotspur,8586,England Premier League,3470,England,1729
+Watford,9817,England Premier League,8784,England,1729
+West Bromwich Albion,8659,England Premier League,3460,England,1729
+West Ham United,8654,England Premier League,3463,England,1729
+Wigan Athletic,8528,England Premier League,3464,England,1729
+Wolverhampton Wanderers,8602,England Premier League,4225,England,1729
+AC Ajaccio,8576,France Ligue 1,11817,France,4769
+AC Arles-Avignon,108893,France Ligue 1,11074,France,4769
+AJ Auxerre,8583,France Ligue 1,9537,France,4769
+AS Monaco,9829,France Ligue 1,9547,France,4769
+AS Nancy-Lorraine,8481,France Ligue 1,9549,France,4769
+AS Saint-Étienne,9853,France Ligue 1,9556,France,4769
+Angers SCO,8121,France Ligue 1,14868,France,4769
+Dijon FCO,9836,France Ligue 1,11825,France,4769
+ES Troyes AC,10242,France Ligue 1,12595,France,4769
+En Avant de Guingamp,9747,France Ligue 1,13343,France,4769
+FC Lorient,8689,France Ligue 1,9544,France,4769
+FC Metz,8550,France Ligue 1,14106,France,4769
+FC Nantes,9830,France Ligue 1,9538,France,4769
+FC Sochaux-Montbéliard,9874,France Ligue 1,9553,France,4769
+GFC Ajaccio,6391,France Ligue 1,14876,France,4769
+Girondins de Bordeaux,9827,France Ligue 1,9539,France,4769
+Grenoble Foot 38,9855,France Ligue 1,9554,France,4769
+LOSC Lille,8639,France Ligue 1,9550,France,4769
+Le Havre AC,9746,France Ligue 1,9541,France,4769
+Le Mans FC,8682,France Ligue 1,9543,France,4769
+Montpellier Hérault SC,10249,France Ligue 1,10309,France,4769
+OGC Nice,9831,France Ligue 1,9542,France,4769
+Olympique Lyonnais,9748,France Ligue 1,9545,France,4769
+Olympique de Marseille,8592,France Ligue 1,9552,France,4769
+Paris Saint-Germain,9847,France Ligue 1,9548,France,4769
+RC Lens,8588,France Ligue 1,10300,France,4769
+SC Bastia,7794,France Ligue 1,12594,France,4769
+SM Caen,7819,France Ligue 1,9540,France,4769
+Stade Brestois 29,8521,France Ligue 1,11076,France,4769
+Stade Rennais FC,9851,France Ligue 1,9551,France,4769
+Stade de Reims,9837,France Ligue 1,12587,France,4769
+Toulouse FC,9941,France Ligue 1,9546,France,4769
+US Boulogne Cote D'Opale,4170,France Ligue 1,10312,France,4769
+Valenciennes FC,9873,France Ligue 1,9555,France,4769
+Évian Thonon Gaillard FC,4087,France Ligue 1,11822,France,4769
+1. FC Kaiserslautern,8350,Germany 1. Bundesliga,16848,Germany,7809
+1. FC Köln,8722,Germany 1. Bundesliga,15624,Germany,7809
+1. FC Nürnberg,8165,Germany 1. Bundesliga,16239,Germany,7809
+1. FSV Mainz 05,9905,Germany 1. Bundesliga,16243,Germany,7809
+Bayer 04 Leverkusen,8178,Germany 1. Bundesliga,15619,Germany,7809
+Borussia Dortmund,9789,Germany 1. Bundesliga,15620,Germany,7809
+Borussia Mönchengladbach,9788,Germany 1. Bundesliga,15631,Germany,7809
+DSC Arminia Bielefeld,9912,Germany 1. Bundesliga,15627,Germany,7809
+Eintracht Braunschweig,9776,Germany 1. Bundesliga,18691,Germany,7809
+Eintracht Frankfurt,9810,Germany 1. Bundesliga,15625,Germany,7809
+FC Augsburg,8406,Germany 1. Bundesliga,17465,Germany,7809
+FC Bayern Munich,9823,Germany 1. Bundesliga,15617,Germany,7809
+FC Energie Cottbus,8398,Germany 1. Bundesliga,15629,Germany,7809
+FC Ingolstadt 04,8234,Germany 1. Bundesliga,19916,Germany,7809
+FC Schalke 04,10189,Germany 1. Bundesliga,15621,Germany,7809
+FC St. Pauli,8152,Germany 1. Bundesliga,16850,Germany,7809
+Fortuna Düsseldorf,8194,Germany 1. Bundesliga,18074,Germany,7809
+Hamburger SV,9790,Germany 1. Bundesliga,15618,Germany,7809
+Hannover 96,9904,Germany 1. Bundesliga,15622,Germany,7809
+Hertha BSC Berlin,8177,Germany 1. Bundesliga,15626,Germany,7809
+Karlsruher SC,8295,Germany 1. Bundesliga,15633,Germany,7809
+SC Freiburg,8358,Germany 1. Bundesliga,16237,Germany,7809
+SC Paderborn 07,8460,Germany 1. Bundesliga,19305,Germany,7809
+SV Darmstadt 98,8262,Germany 1. Bundesliga,19917,Germany,7809
+SV Werder Bremen,8697,Germany 1. Bundesliga,15628,Germany,7809
+SpVgg Greuther Fürth,8357,Germany 1. Bundesliga,18079,Germany,7809
+TSG 1899 Hoffenheim,8226,Germany 1. Bundesliga,15630,Germany,7809
+VfB Stuttgart,10269,Germany 1. Bundesliga,15632,Germany,7809
+VfL Bochum,9911,Germany 1. Bundesliga,15634,Germany,7809
+VfL Wolfsburg,8721,Germany 1. Bundesliga,15623,Germany,7809
+Atalanta,8524,Italy Serie A,20513,Italy,10257
+Bari,9976,Italy Serie A,21280,Italy,10257
+Bologna,9857,Italy Serie A,20524,Italy,10257
+Brescia,9858,Italy Serie A,22044,Italy,10257
+Cagliari,8529,Italy Serie A,20515,Italy,10257
+Carpi,208931,Italy Serie A,25804,Italy,10257
+Catania,8530,Italy Serie A,20517,Italy,10257
+Cesena,9880,Italy Serie A,22042,Italy,10257
+Chievo Verona,8533,Italy Serie A,20519,Italy,10257
+Empoli,8534,Italy Serie A,25048,Italy,10257
+Fiorentina,8535,Italy Serie A,20521,Italy,10257
+Frosinone,9891,Italy Serie A,25791,Italy,10257
+Genoa,10233,Italy Serie A,20518,Italy,10257
+Hellas Verona,9876,Italy Serie A,24273,Italy,10257
+Inter,8636,Italy Serie A,20528,Italy,10257
+Juventus,9885,Italy Serie A,20522,Italy,10257
+Lazio,8543,Italy Serie A,20516,Italy,10257
+Lecce,9888,Italy Serie A,20530,Italy,10257
+Livorno,8537,Italy Serie A,21285,Italy,10257
+Milan,8564,Italy Serie A,20523,Italy,10257
+Napoli,9875,Italy Serie A,20526,Italy,10257
+Novara,6269,Italy Serie A,22805,Italy,10257
+Palermo,8540,Italy Serie A,20532,Italy,10257
+Parma,10167,Italy Serie A,21292,Italy,10257
+Pescara,9878,Italy Serie A,23523,Italy,10257
+Reggio Calabria,8690,Italy Serie A,20520,Italy,10257
+Roma,8686,Italy Serie A,20525,Italy,10257
+Sampdoria,9882,Italy Serie A,20527,Italy,10257
+Sassuolo,7943,Italy Serie A,24288,Italy,10257
+Siena,8551,Italy Serie A,20514,Italy,10257
+Torino,9804,Italy Serie A,20529,Italy,10257
+Udinese,8600,Italy Serie A,20531,Italy,10257
+ADO Den Haag,10217,Netherlands Eredivisie,26560,Netherlands,13274
+AZ,10229,Netherlands Eredivisie,26563,Netherlands,13274
+Ajax,8593,Netherlands Eredivisie,26552,Netherlands,13274
+De Graafschap,8526,Netherlands Eredivisie,26554,Netherlands,13274
+Excelsior,10218,Netherlands Eredivisie,27780,Netherlands,13274
+FC Dordrecht,6631,Netherlands Eredivisie,30222,Netherlands,13274
+FC Groningen,8674,Netherlands Eredivisie,26548,Netherlands,13274
+FC Twente,8611,Netherlands Eredivisie,26550,Netherlands,13274
+FC Utrecht,9908,Netherlands Eredivisie,26555,Netherlands,13274
+FC Volendam,6601,Netherlands Eredivisie,26561,Netherlands,13274
+Feyenoord,10235,Netherlands Eredivisie,26558,Netherlands,13274
+Go Ahead Eagles,6433,Netherlands Eredivisie,29624,Netherlands,13274
+Heracles Almelo,9791,Netherlands Eredivisie,26557,Netherlands,13274
+N.E.C.,8464,Netherlands Eredivisie,26553,Netherlands,13274
+NAC Breda,9761,Netherlands Eredivisie,26564,Netherlands,13274
+PEC Zwolle,6413,Netherlands Eredivisie,29000,Netherlands,13274
+PSV,8640,Netherlands Eredivisie,26556,Netherlands,13274
+RKC Waalwijk,10219,Netherlands Eredivisie,27161,Netherlands,13274
+Roda JC Kerkrade,9803,Netherlands Eredivisie,26549,Netherlands,13274
+SC Cambuur,7788,Netherlands Eredivisie,29617,Netherlands,13274
+SC Heerenveen,10228,Netherlands Eredivisie,26562,Netherlands,13274
+Sparta Rotterdam,8614,Netherlands Eredivisie,26559,Netherlands,13274
+VVV-Venlo,9839,Netherlands Eredivisie,27168,Netherlands,13274
+Vitesse,8277,Netherlands Eredivisie,26547,Netherlands,13274
+Willem II,8525,Netherlands Eredivisie,26551,Netherlands,13274
+Arka Gdynia,8322,Poland Ekstraklasa,31455,Poland,15722
+Cracovia,2186,Poland Ekstraklasa,31458,Poland,15722
+GKS Bełchatów,8569,Poland Ekstraklasa,31454,Poland,15722
+Górnik Łęczna,8019,Poland Ekstraklasa,34337,Poland,15722
+Jagiellonia Białystok,1957,Poland Ekstraklasa,31456,Poland,15722
+Korona Kielce,8245,Poland Ekstraklasa,31925,Poland,15722
+Lech Poznań,2182,Poland Ekstraklasa,31453,Poland,15722
+Lechia Gdańsk,8030,Poland Ekstraklasa,31450,Poland,15722
+Legia Warszawa,8673,Poland Ekstraklasa,31447,Poland,15722
+Odra Wodzisław,8242,Poland Ekstraklasa,31452,Poland,15722
+P. Warszawa,2183,Poland Ekstraklasa,31448,Poland,15722
+Piast Gliwice,8028,Poland Ekstraklasa,31457,Poland,15722
+Podbeskidzie Bielsko-Biała,8033,Poland Ekstraklasa,32891,Poland,15722
+Pogoń Szczecin,8023,Poland Ekstraklasa,33377,Poland,15722
+Polonia Bytom,8031,Poland Ekstraklasa,31444,Poland,15722
+Polonia Bytom,8020,Poland Ekstraklasa,31445,Poland,15722
+Ruch Chorzów,1601,Poland Ekstraklasa,31446,Poland,15722
+Termalica Bruk-Bet Nieciecza,177361,Poland Ekstraklasa,34816,Poland,15722
+Widzew Łódź,8244,Poland Ekstraklasa,31451,Poland,15722
+Widzew Łódź,8024,Poland Ekstraklasa,32409,Poland,15722
+Wisła Kraków,10265,Poland Ekstraklasa,31443,Poland,15722
+Zagłębie Lubin,8021,Poland Ekstraklasa,31928,Poland,15722
+Zawisza Bydgoszcz,8027,Poland Ekstraklasa,33855,Poland,15722
+Śląsk Wrocław,8025,Poland Ekstraklasa,31449,Poland,15722
+Académica de Coimbra,10215,Portugal Liga ZON Sagres,35292,Portugal,17642
+Amadora,10213,Portugal Liga ZON Sagres,35291,Portugal,17642
+Boavista FC,8613,Portugal Liga ZON Sagres,38176,Portugal,17642
+CD Nacional,10214,Portugal Liga ZON Sagres,35296,Portugal,17642
+CF Os Belenenses,9807,Portugal Liga ZON Sagres,35284,Portugal,17642
+CS Marítimo,10212,Portugal Liga ZON Sagres,35298,Portugal,17642
+Estoril Praia,7842,Portugal Liga ZON Sagres,37214,Portugal,17642
+FC Arouca,158085,Portugal Liga ZON Sagres,37696,Portugal,17642
+FC Paços de Ferreira,6403,Portugal Liga ZON Sagres,35289,Portugal,17642
+FC Penafiel,6547,Portugal Liga ZON Sagres,38173,Portugal,17642
+FC Porto,9773,Portugal Liga ZON Sagres,35283,Portugal,17642
+Feirense,4064,Portugal Liga ZON Sagres,36723,Portugal,17642
+Gil Vicente FC,9764,Portugal Liga ZON Sagres,36735,Portugal,17642
+Leixões SC,6421,Portugal Liga ZON Sagres,35295,Portugal,17642
+Moreirense FC,8348,Portugal Liga ZON Sagres,37210,Portugal,17642
+Naval 1° de Maio,9809,Portugal Liga ZON Sagres,35297,Portugal,17642
+Portimonense,9765,Portugal Liga ZON Sagres,36248,Portugal,17642
+Rio Ave FC,7841,Portugal Liga ZON Sagres,35293,Portugal,17642
+S.C. Olhanense,2033,Portugal Liga ZON Sagres,35774,Portugal,17642
+SC Beira Mar,10211,Portugal Liga ZON Sagres,36253,Portugal,17642
+SC Braga,10264,Portugal Liga ZON Sagres,35290,Portugal,17642
+SL Benfica,9772,Portugal Liga ZON Sagres,35294,Portugal,17642
+Sporting CP,9768,Portugal Liga ZON Sagres,35285,Portugal,17642
+Tondela,188163,Portugal Liga ZON Sagres,38791,Portugal,17642
+Trofense,7992,Portugal Liga ZON Sagres,35286,Portugal,17642
+Uniao da Madeira,6367,Portugal Liga ZON Sagres,38789,Portugal,17642
+"União de Leiria, SAD",9771,Portugal Liga ZON Sagres,35769,Portugal,17642
+Vitória Guimarães,7844,Portugal Liga ZON Sagres,35287,Portugal,17642
+Vitória Setúbal,10238,Portugal Liga ZON Sagres,35288,Portugal,17642
+Aberdeen,8485,Scotland Premier League,39393,Scotland,19694
+Celtic,9925,Scotland Premier League,39395,Scotland,19694
+Dundee FC,8284,Scotland Premier League,41216,Scotland,19694
+Dundee United,9938,Scotland Premier League,39398,Scotland,19694
+Dunfermline Athletic,8457,Scotland Premier League,40757,Scotland,19694
+Falkirk,8596,Scotland Premier League,39387,Scotland,19694
+Hamilton Academical FC,8429,Scotland Premier League,39397,Scotland,19694
+Heart of Midlothian,9860,Scotland Premier League,39389,Scotland,19694
+Hibernian,10251,Scotland Premier League,39392,Scotland,19694
+Inverness Caledonian Thistle,8066,Scotland Premier League,39394,Scotland,19694
+Kilmarnock,8597,Scotland Premier League,39391,Scotland,19694
+Motherwell,9927,Scotland Premier League,39390,Scotland,19694
+Partick Thistle F.C.,8426,Scotland Premier League,41673,Scotland,19694
+Rangers,8548,Scotland Premier League,39388,Scotland,19694
+Ross County FC,8649,Scotland Premier League,41217,Scotland,19694
+St. Johnstone FC,8467,Scotland Premier League,39853,Scotland,19694
+St. Mirren,9800,Scotland Premier League,39396,Scotland,19694
+Athletic Club de Bilbao,8315,Spain LIGA BBVA,43051,Spain,21518
+Atlético Madrid,9906,Spain LIGA BBVA,43053,Spain,21518
+CA Osasuna,8371,Spain LIGA BBVA,43037,Spain,21518
+CD Numancia,8388,Spain LIGA BBVA,43041,Spain,21518
+CD Tenerife,9867,Spain LIGA BBVA,43804,Spain,21518
+Córdoba CF,7869,Spain LIGA BBVA,47612,Spain,21518
+Elche CF,10268,Spain LIGA BBVA,46848,Spain,21518
+FC Barcelona,8634,Spain LIGA BBVA,43042,Spain,21518
+Getafe CF,8305,Spain LIGA BBVA,43046,Spain,21518
+Granada CF,7878,Spain LIGA BBVA,45330,Spain,21518
+Hércules Club de Fútbol,10278,Spain LIGA BBVA,44557,Spain,21518
+Levante UD,8581,Spain LIGA BBVA,44565,Spain,21518
+Málaga CF,9864,Spain LIGA BBVA,43054,Spain,21518
+RC Celta de Vigo,9910,Spain LIGA BBVA,46087,Spain,21518
+RC Deportivo de La Coruña,9783,Spain LIGA BBVA,43039,Spain,21518
+RC Recreativo,8479,Spain LIGA BBVA,43048,Spain,21518
+RCD Espanyol,8558,Spain LIGA BBVA,43049,Spain,21518
+RCD Mallorca,8661,Spain LIGA BBVA,43036,Spain,21518
+Racing Santander,8696,Spain LIGA BBVA,43043,Spain,21518
+Rayo Vallecano,8370,Spain LIGA BBVA,45333,Spain,21518
+Real Betis Balompié,8603,Spain LIGA BBVA,43047,Spain,21518
+Real Madrid CF,8633,Spain LIGA BBVA,43040,Spain,21518
+Real Sociedad,8560,Spain LIGA BBVA,44569,Spain,21518
+Real Sporting de Gijón,9869,Spain LIGA BBVA,43045,Spain,21518
+Real Valladolid,10281,Spain LIGA BBVA,43050,Spain,21518
+Real Zaragoza,8394,Spain LIGA BBVA,43803,Spain,21518
+SD Eibar,8372,Spain LIGA BBVA,47605,Spain,21518
+Sevilla FC,8302,Spain LIGA BBVA,43044,Spain,21518
+UD Almería,9865,Spain LIGA BBVA,43052,Spain,21518
+UD Las Palmas,8306,Spain LIGA BBVA,48358,Spain,21518
+Valencia CF,10267,Spain LIGA BBVA,43035,Spain,21518
+Villarreal CF,10205,Spain LIGA BBVA,43038,Spain,21518
+Xerez Club Deportivo,9868,Spain LIGA BBVA,43800,Spain,21518
+AC Bellinzona,6493,Switzerland Super League,49116,Switzerland,24558
+BSC Young Boys,10192,Switzerland Super League,49117,Switzerland,24558
+FC Aarau,9930,Switzerland Super League,49119,Switzerland,24558
+FC Basel,9931,Switzerland Super League,49118,Switzerland,24558
+FC Lausanne-Sports,7730,Switzerland Super League,50204,Switzerland,24558
+FC Luzern,10199,Switzerland Super League,49121,Switzerland,24558
+FC Sion,10179,Switzerland Super League,49120,Switzerland,24558
+FC St. Gallen,10190,Switzerland Super League,49479,Switzerland,24558
+FC Thun,10191,Switzerland Super League,49837,Switzerland,24558
+FC Vaduz,9824,Switzerland Super League,49122,Switzerland,24558
+FC Zürich,10243,Switzerland Super League,49124,Switzerland,24558
+Grasshopper Club Zürich,9956,Switzerland Super League,49115,Switzerland,24558
+Lugano,7896,Switzerland Super League,51606,Switzerland,24558
+Neuchâtel Xamax,7955,Switzerland Super League,49123,Switzerland,24558
+Servette FC,9777,Switzerland Super League,50201,Switzerland,24558
